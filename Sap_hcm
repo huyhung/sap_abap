@@ -1,0 +1,10 @@
+HR FM& Class method,BADIs.
+
+1. HR_SPA_EMPLOYEE_DETAILS_GET   " 
+
+2. ZHCM_GET_HIGHER_ORGS 
+3. CALL METHOD zcl_payslip=>read_payroll
+      IMPORTING
+        em_subrc = lv_subrc.
+
+4. Get It008 Amount:   WFA_GET_WAGETYPE_AMOUNT
