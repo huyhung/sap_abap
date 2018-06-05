@@ -8,3 +8,4 @@ HR FM& Class method,BADIs.
         em_subrc = lv_subrc.
 
 4. Get It008 Amount:   WFA_GET_WAGETYPE_AMOUNT
+5. HR_READ_INFOTYPE
